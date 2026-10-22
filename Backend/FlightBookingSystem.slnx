@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/Gateway/">
+    <Project Path="Gateway/FlightGateway/FlightGateway.csproj" />
+  </Folder>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Booking/">
+    <Project Path="Services/Booking/Booking.API/Booking.API.csproj" />
+  </Folder>
+  <Folder Name="/Services/Checkin/">
+    <Project Path="Services/Checkin/Checkin.API/Checkin.API.csproj" />
+  </Folder>
+  <Folder Name="/Services/Fare/">
+    <Project Path="Services/Fare/Fare.API/Fare.API.csproj" />
+  </Folder>
+  <Folder Name="/Services/Identity/">
+    <Project Path="Services/Identity/Identity.API/Identity.API.csproj" />
+  </Folder>
+  <Folder Name="/Services/Search/">
+    <Project Path="Services/Search/Search.API/Search.API.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.Common/Shared.Common.csproj" />
+    <Project Path="Shared/Shared.Contracts/Shared.Contracts.csproj" />
+    <Project Path="Shared/Shared.Models/Shared.Models.csproj" />
+  </Folder>
+</Solution>

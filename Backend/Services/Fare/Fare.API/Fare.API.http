@@ -1,0 +1,6 @@
+@Fare.API_HostAddress = http://localhost:5182
+
+GET {{Fare.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
